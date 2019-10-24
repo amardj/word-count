@@ -1,6 +1,5 @@
 
-
-Purpose
+Purpose of the project
 =======
 
 Write me ...
